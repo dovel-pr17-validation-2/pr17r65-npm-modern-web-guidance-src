@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "@11ty/gray-matter": "^3.0.0",
-    "@google-cloud/storage": "^7.22.0",
+    "@google-cloud/storage": "^9.0.0",
     "@huggingface/transformers": "^4.3.1",
     "@mdn/browser-compat-data": "^8.1.7",
     "@openai/codex": "0.166.0",
